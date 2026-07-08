@@ -1124,24 +1124,7 @@ async def send_main_menu(update_or_query, text="🌍 منوی اصلی بازی 
 
 
 async def is_member_of_channel(context: ContextTypes.DEFAULT_TYPE, user_id: int) -> bool:
-    try:
-        member = await context.bot.get_chat_member(MANDATORY_CHANNEL_ID, user_id)
-        return member.status not in ("left", "kicked")
-    except (BadRequest, Forbidden):
-        return False
-    except Exception as e:
-        logger.warning(f"membership check failed: {e}")
-        return False
-
-
-def join_channel_kb():
-    return InlineKeyboardMarkup(
-        [
-            [InlineKeyboardButton("📢 عضویت در چنل", url=MANDATORY_CHANNEL_LINK)],
-            [InlineKeyboardButton("✅ تایید عضویت", callback_data="check_join")],
-        ]
-    )
-
+    return True
 
 # ======================================================================
 #                          دستور /start  و انتخاب کشور
