@@ -35,7 +35,7 @@ from telegram.ext import (
 # ============================================================
 # 1. CONFIGURATION BLOCK
 # ============================================================
-BOT_TOKEN = "8946712747:AAEHHKlngGrmbGJYLE0MjRtmog9WBAaADNc"
+BOT_TOKEN = "8946712747:AAFPJIc_fdGIDGBUrq1Vjd0RmmjeMcgPnp8"
 CHANNEL_USERNAME = "@Summertime221"
 CHANNEL_URL = "https://t.me/Summertime221"
 
