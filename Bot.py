@@ -42,8 +42,6 @@ BOT_TOKEN = "8946712747:AAFPJIc_fdGIDGBUrq1Vjd0RmmjeMcgPnp8"
 # و بقیه رو پاک کن.
 CHANNELS = [
     {"username": "@Summertime221", "url": "https://t.me/Summertime221"},
-    # {"username": "@channel_دوم", "url": "https://t.me/channel_دوم"},
-    # {"username": "@channel_سوم", "url": "https://t.me/channel_سوم"},
 ]
 
 # 👇 آیدی عددی خودت (و هر ادمین دیگه) رو اینجا بذار.
