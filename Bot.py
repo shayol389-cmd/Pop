@@ -2649,4 +2649,4 @@ def main() -> None:
     elif DATABASE_URL and not _PSYCOPG2_AVAILABLE:
         logger.warning(
             "⚠️ DATABASE_URL تنظیم شده ولی پکیج psycopg2-binary نصب نیست! "
-            "به requirements.txt این خط رو ا
+            }
