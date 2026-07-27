@@ -43,7 +43,7 @@ BOT_TOKEN = "8946712747:AAFqXccCJZDPZ-RB8P3NDyRAVYSE7qDyaNw"
 CHANNELS = [
     {"username": "@Summertime221", "url": "https://t.me/Summertime221"},
      {"username": "@summertime_game221", "url": "https://t.me/Summertime_game221"},
-    # {"username": "@channel_سوم", "url": "https://t.me/channel_سوم"},
+     {"username": "@film_hob2", "url": "https://t.me/film_hob2"},
 ]
 
 # 👇 آیدی عددی خودت (و هر ادمین دیگه) رو اینجا بذار.
