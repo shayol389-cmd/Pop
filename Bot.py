@@ -42,7 +42,7 @@ BOT_TOKEN = "8946712747:AAFqXccCJZDPZ-RB8P3NDyRAVYSE7qDyaNw"
 # و بقیه رو پاک کن.
 CHANNELS = [
     {"username": "@Summertime221", "url": "https://t.me/Summertime221"},
-    # {"username": "@channel_دوم", "url": "https://t.me/channel_دوم"},
+     {"username": "@summertimeSagaX", "url": "https://t.me/SummertimeSagaX"},
     # {"username": "@channel_سوم", "url": "https://t.me/channel_سوم"},
 ]
 
